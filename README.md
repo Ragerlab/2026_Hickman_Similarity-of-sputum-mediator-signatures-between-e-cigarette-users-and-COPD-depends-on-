@@ -2,7 +2,7 @@
 
 Script author: Elise Hickman (ehickman@email.unc.edu)
 
-This study set out to compare induced sputum soluble mediator profiles between e-cigarette users and participants with different stages of COPD using a suite of computational approaches (manuscript currently in submission). 
+This study set out to compare induced sputum soluble mediator profiles between e-cigarette users and participants with different stages of COPD using a suite of computational approaches. 
 
 **1_SummaryTables_VariablebyVariable:** Analysis specific to between COPD stages only, including creation of summary tables and variable by variable analyses across the COPD stages. 
 
